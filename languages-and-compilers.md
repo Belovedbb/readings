@@ -12,12 +12,16 @@
 
 ## Parsers
 
-- [x] 📖 [**Writing A Compiler In Go**](https://compilerbook.com) (T Ball 2018)
-- [x] 📖 [**Writing An Interpreter In Go**](https://interpreterbook.com) (T Ball 2016)
+- [ ] 📖 [**Crafting Interpreters**](http://craftinginterpreters.com/) (Robert Nystrom 2015)
+- [ ] 📖 [**Writing Interpreters in Rust**](https://rust-hosted-langs.github.io/book/) (Rust Opensource)
 - [ ] 📖 [Language Implementation Patterns](https://pragprog.com/book/tpdsl/language-implementation-patterns) (T Parr 2014)
-- [x] 💬 [Parsing Expressions by Precedence Climbing](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing) (E Bendersky 2012)
+- [ ] 💬 [Parsing Expressions by Precedence Climbing](https://eli.thegreenplace.net/2012/08/02/parsing-expressions-by-precedence-climbing) (E Bendersky 2012)
 
 ### Regular Expressions
 
-- [x] 🛠 [Let's Build a Regex Engine](https://kean.blog/post/lets-build-regex) (A Grebenyuk 2019)
+- [ ] 🛠 [Let's Build a Regex Engine](https://kean.blog/post/lets-build-regex) (A Grebenyuk 2019)
 - [ ] 📄 [Regular Expression Matching Can Be Simple And Fast](https://swtch.com/~rsc/regexp/regexp1.html) (R Cox 2007)
+
+### Garbage Collectors
+
+- [ ] 📄 [The Garbage Collection Handbook](http://gchandbook.org/) (Richard Jones, Antony Hosking, Eliot Moss 1997)
