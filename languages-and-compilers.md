@@ -9,6 +9,7 @@
 - [ ] 📖 [**Structure and Interpretation of Computer Programs**](https://mitpress.mit.edu/sites/default/files/sicp/index.html) (H Abelson, GJ Sussman 1984) _The Wizard Book_
 - [ ] 📄 [A New C Compiler](https://c9x.me/compile/bib/new-c.pdf) (K Thompson 1990)
 - [ ] 📄 [Linear Scan Register Allocation](https://c9x.me/compile/bib/linearscan.pdf)  (M Poletto, V Sarkar 1999)
+- [ ] 📄 [Let’s build an LC-3 Virtual Machine](https://www.rodrigoaraujo.me/posts/lets-build-an-lc-3-virtual-machine/) ( Rodrigo Araujo)
 
 ## Parsers
 
